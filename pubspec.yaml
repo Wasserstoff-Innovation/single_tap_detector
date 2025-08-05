@@ -1,7 +1,7 @@
 name: single_tap_detector
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/Wasserstoff-Innovation/single_tap_detector.git
 
 environment:
   sdk: ^3.7.2

@@ -1,3 +1,8 @@
-## 0.0.1
+# Changelog
 
-* TODO: Describe initial release.
+## 1.0.0
+
+* Initial release
+* SingleTapDetector widget with debounce protection
+* Configurable debounce duration
+* Safe widget disposal handling
